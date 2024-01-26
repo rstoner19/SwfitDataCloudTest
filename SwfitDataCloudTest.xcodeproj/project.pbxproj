@@ -12,6 +12,7 @@
 		42323AE12B63053E00A836D5 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42323AE02B63053E00A836D5 /* Item.swift */; };
 		42323AE32B63053F00A836D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42323AE22B63053F00A836D5 /* Assets.xcassets */; };
 		42323AE62B63053F00A836D5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42323AE52B63053F00A836D5 /* Preview Assets.xcassets */; };
+		42323AEF2B63057000A836D5 /* InputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42323AEE2B63057000A836D5 /* InputView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		42323AE52B63053F00A836D5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		42323AE72B63053F00A836D5 /* SwfitDataCloudTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwfitDataCloudTest.entitlements; sourceTree = "<group>"; };
 		42323AE82B63053F00A836D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42323AEE2B63057000A836D5 /* InputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				42323ADC2B63053E00A836D5 /* SwfitDataCloudTestApp.swift */,
 				42323ADE2B63053E00A836D5 /* ContentView.swift */,
 				42323AE02B63053E00A836D5 /* Item.swift */,
+				42323AEE2B63057000A836D5 /* InputView.swift */,
 				42323AE22B63053F00A836D5 /* Assets.xcassets */,
 				42323AE72B63053F00A836D5 /* SwfitDataCloudTest.entitlements */,
 				42323AE82B63053F00A836D5 /* Info.plist */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42323ADF2B63053E00A836D5 /* ContentView.swift in Sources */,
+				42323AEF2B63057000A836D5 /* InputView.swift in Sources */,
 				42323AE12B63053E00A836D5 /* Item.swift in Sources */,
 				42323ADD2B63053E00A836D5 /* SwfitDataCloudTestApp.swift in Sources */,
 			);
